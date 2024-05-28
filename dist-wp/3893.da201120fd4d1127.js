@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangular_18_test=self.webpackChunkangular_18_test||[]).push([[3893],{3893:(a,n,e)=>{e.r(n),e.d(n,{CalcitePanel:()=>l,defineCustomElement:()=>s});var t=e(75387);const l=t.P,s=t.d}}]);
