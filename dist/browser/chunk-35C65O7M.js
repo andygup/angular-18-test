@@ -1,0 +1,1 @@
+import{X as i}from"./chunk-AANS6QE5.js";import{m as p,u as r}from"./chunk-3DV77WOO.js";function n(o){if(p.apiKey&&i(o.portal.url))throw new r("save-api-key-utils:api-key-not-supported",`Saving is not supported on ${o.portal.url} when using an api key`)}export{n as a};
